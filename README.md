@@ -1,6 +1,9 @@
 # telegraf-chat-gpt
 
-- 해당 레포지토리는 OpenAI API와 Telegraf, dotenv, node-cache 라이브러리를 사용하여 텔레그램 봇에 ChatGPT를 연동하는 예시입니다. 필요에 따라 코드를 수정하여 원하는 기능을 추가하실 수 있습니다.
+![image](https://github.com/j3y3h0/telegraf-chat-gpt/assets/18677603/4948f621-fd0b-4ae2-9e1b-f1cff74a01c7)
+
+- OpenAI API와 Telegraf 라이브러리를 사용하여  
+  텔레그램 봇에 ChatGPT를 연동하는 템플릿입니다.
 
 ## 설정
 
