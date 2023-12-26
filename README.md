@@ -13,11 +13,14 @@
 npm install
 ```
 
-2. .env 파일을 생성하고, OpenAI API 키와 텔레그램 봇 토큰을 설정합니다.
+2. .env 파일을 생성하고, OpenAI API 키와 텔레그램 봇 토큰을 설정합니다.  
+   (.env.template 파일을 참고합니다.)
 
 ```
-API*KEY=여기에*오픈AI*API*키를*입력하세요
-BOT_TOKEN=여기에*텔레그램*봇*토큰을\_입력하세요
+# OpenAI api key 값
+API_KEY=sk-aBcDeFgHiJkLmN1234567890
+# 텔레그랩 봇 토큰 값
+BOT_TOKEN=1234567890:ABC-DeFgHiJkLmNoPqRsTu123456
 ```
 
 3. 실행
